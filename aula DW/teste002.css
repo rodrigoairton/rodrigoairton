@@ -1,0 +1,28 @@
+.h1-vermelho {
+    color: red;
+
+}
+
+#primeiro-h1{
+    color: burlywood;
+}
+
+#conteudo
+{
+
+    width: 500px;
+    height: 200px;
+    background-color: aqua;
+    float: left;
+    margin-left: 50px;
+}
+
+p{
+    front-size: 50px;
+}
+h1
+{   
+    color: rebeccapurple;
+    front-siza: 30px;
+    
+}

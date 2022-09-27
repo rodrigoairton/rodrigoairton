@@ -1,0 +1,19 @@
+h1 {
+    color: orange;
+}
+#menu-site h1 {
+    color: rosybrown;
+}
+#menu-site a {
+    color: violet;
+}
+#conteudo-site h1 {
+    color: olive
+}
+.caixa {
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    float: left;
+    background: saddlebrown;
+}
